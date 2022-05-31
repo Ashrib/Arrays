@@ -83,7 +83,7 @@ document.write("<b>Colors after deleted last one: </b>"+colors +"</br>");
 document.write("</br>");
 document.write("</br>");
 // Q.13
-var stdScores = [4,8,13,2,3,50,20];
+var stdScores = [14,18,13,12,23,50,20];
 document.write("Scores of Students :  " + stdScores);
 document.write("<br>");
 var sortedScores = stdScores.sort()
